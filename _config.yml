@@ -1,0 +1,11 @@
+title: Rallies
+description: Better match setup for pickleball and padel.
+url: ""
+baseurl: ""
+theme: null
+plugins: []
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
